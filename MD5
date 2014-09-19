@@ -1,0 +1,15 @@
+8724873f26bfd51b9f2e0645a9e4b9f9 *DESCRIPTION
+6c873317ec84ae45cf577e6e0b0e369d *NAMESPACE
+19efb3de14654c1d5ca546a09a88ba76 *R/SQDA.R
+66be4dc2eaf264889b1953b47e97964f *data/datalist
+a5010ae294fcfcf1a2443d2117da2517 *data/exampledata.rda
+57d0c8ef25d7a8be92d18638a0ce89a1 *man/SQDA-package.Rd
+52b77c211aaf5381f127758990bed900 *man/cross.Rd
+1c399b2a57b1ac71186ec3b16c9a512e *man/exampledata.Rd
+308f95e5c1ff465473b0b4d4349739ad *man/sGda.Rd
+fd4e34ced75d370a7a0e57c8ade58634 *man/sGdaCV2.Rd
+6551e22d577a7db2216d62ed121e6e11 *man/sQDA.Rd
+1dd04239c70a37abca39e5d1ddf5ddf9 *man/simpleAGG3.Rd
+6bdc1f408237d4815a2d005dcebd9971 *man/sortgene.Rd
+b8c7d27b87eb814c384281c2a01f07e0 *man/test.data.Rd
+aae9f5a113052a16cdde8db10060747d *man/train.data.Rd
